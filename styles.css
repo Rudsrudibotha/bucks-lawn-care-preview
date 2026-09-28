@@ -9,6 +9,7 @@
 html{scroll-behavior:smooth;scroll-padding-top:84px}
 body{font-family:var(--body);color:var(--ink);background:var(--sand);line-height:1.6;font-size:17px;-webkit-font-smoothing:antialiased}
 img{display:block;max-width:100%;height:auto}
+button{font:inherit}
 a{color:inherit}
 .wrap{width:min(1180px,92vw);margin-inline:auto}
 .skip{position:absolute;left:-999px}.skip:focus{left:12px;top:12px;z-index:99;background:#fff;padding:8px 12px;border-radius:8px}
@@ -128,7 +129,7 @@ section{padding:100px 0}
 .medal svg{width:100%;height:100%}
 .medal circle{fill:var(--sun);stroke:rgba(255,255,255,.25);stroke-width:4}
 .medal path{fill:var(--pine);opacity:.14}
-.medal span{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;font-family:var(--display);font-weight:800;font-size:1.05rem;letter-spacing:.04em;text-transform:uppercase;line-height:1;color:var(--pine)}
+.medal span{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;font-family:var(--display);font-weight:800;font-size:1.1rem;letter-spacing:.02em;text-transform:uppercase;line-height:1.1;color:var(--pine)}
 .medal span b{font-size:3.2rem;letter-spacing:-.02em;margin-bottom:4px}
 
 /* quote */
@@ -184,11 +185,15 @@ a.c-card:hover{background:var(--sun);transform:translateX(4px)}
 @media (max-width:860px){
   .links{display:none}
   .nav-call{margin-left:auto}
-  .hero{padding:44px 0 70px}
-  .hero-in{grid-template-columns:1fr;gap:44px}
-  .hero-photo{width:min(360px,86%)}
-  .badge-float{left:-22px;width:108px;height:108px}
-  .badge-float b{font-size:2.5rem}
+  .hero{padding:18px 0 60px}
+  .hero-in{grid-template-columns:1fr;gap:18px}
+  .hero h1{margin:14px 0 14px}
+  .hero-photo{order:-1;width:100%}
+  .arch{aspect-ratio:auto;height:34vh;min-height:190px;max-height:320px;border-radius:200px 200px 22px 22px;border-width:5px}
+  .hero-photo figcaption{margin-top:8px}
+  .badge-float{left:auto;right:6px;top:auto;bottom:34px;width:92px;height:92px}
+  .badge-float b{font-size:2.1rem}
+  .badge-float span{font-size:.6rem}
   .story-in,.estimate-in{grid-template-columns:1fr;gap:40px}
   .estimate-in{padding:32px 22px}
   .est-logo{max-width:280px}

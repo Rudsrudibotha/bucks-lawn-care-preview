@@ -1,5 +1,5 @@
 Buck's Lawn Care site: image sources
-Compiled 2026-09-28 by Dev Forge ZA (speculative concept site).
+Compiled 2026-09-28 by Dev Forge ZA. Paths below are relative to images/
 
 BUSINESS'S OWN IMAGES (from the public Buck's Lawn Care Nextdoor business page,
 https://nextdoor.com/pages/bucks-lawn-care-st-petersburg-fl/). Owner: Buck's Lawn Care / Ryan Buchman.
