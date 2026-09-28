@@ -1,0 +1,26 @@
+Buck's Lawn Care site: image sources
+Compiled 2026-09-28 by Dev Forge ZA (speculative concept site).
+
+BUSINESS'S OWN IMAGES (from the public Buck's Lawn Care Nextdoor business page,
+https://nextdoor.com/pages/bucks-lawn-care-st-petersburg-fl/). Owner: Buck's Lawn Care / Ryan Buchman.
+
+logo.png, logo-mark.png, favicon.png
+  Buck's Lawn Care logo ("Where care is in our name"), trimmed/resized from the Nextdoor cover image.
+  Original: https://us1-photo.nextdoor.com/business_cover/33/b8/33b8449537788f485f7b288d95ede104.png
+
+ryan-backyard-fence.jpg
+  Freshly mowed backyard along a black metal fence (Nextdoor gallery photo, resized).
+  Original: https://us1-photo.nextdoor.com/business_gallery/9a/19/9a19ae9c06aa09d592347d3655e93d37.jpeg
+
+ryan-backyard-stripes.jpg, og.jpg (crop)
+  Striped, freshly cut backyard lawn with a wooden fence (Nextdoor gallery photo, resized/cropped).
+  Original: https://us1-photo.nextdoor.com/business_gallery/d1/6a/d16a8ea6414b15f05a8deb87674261dd.jpeg
+
+STOCK FILL (used as a general tools photo only, not presented as the business's own work)
+
+stock-mower.jpg
+  Push lawn mower, spade and broom against a wooden wall.
+  Source: Unsplash, "green and black push lawn mower beside brown wooden wall"
+  Page: https://unsplash.com/photos/HvEdb6RVt4Q
+  File: https://images.unsplash.com/photo-1608624076549-9e27ec6fd229
+  License: Unsplash License (free for commercial use).
