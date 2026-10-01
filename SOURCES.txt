@@ -1,4 +1,4 @@
-Buck's Lawn Care: photo credits
+Image credits, Buck's Lawn Care
 
 images/logo.png, images/logo-mark.png, images/favicon.png
   Buck's Lawn Care logo.
@@ -17,5 +17,11 @@ images/ryan-backyard-stripes.jpg, images/og.jpg
   Source: Buck's Lawn Care, Nextdoor business page (photo gallery)
   https://us1-photo.nextdoor.com/business_gallery/d1/6a/d16a8ea6414b15f05a8deb87674261dd.jpeg
   Rights: Buck's Lawn Care
+
+images/lawn-mowing-zero-turn.jpg
+  Zero-turn mower cutting a lawn (cropped; name badge blurred).
+  Photo: Luis Negron, via Pexels
+  https://www.pexels.com/photo/a-person-mowing-the-lawn-grass-13630739/
+  Licence: Pexels License, https://www.pexels.com/license/
 
 Business page: https://nextdoor.com/pages/bucks-lawn-care-st-petersburg-fl/
