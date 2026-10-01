@@ -139,9 +139,9 @@ blockquote footer{margin-top:18px;font-weight:700;color:var(--muted);letter-spac
 
 /* photo band */
 .band{padding:0;background:var(--pine);color:#fff}
-.band-in{display:grid;grid-template-columns:1.1fr .9fr;align-items:stretch;min-height:460px}
+.band-in{display:grid;grid-template-columns:1fr 1fr;align-items:stretch;min-height:clamp(480px,41vw,600px)}
 .band-photo{position:relative;overflow:hidden;min-height:320px}
-.band-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:45% 50%}
+.band-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 20%}
 .band-copy{display:flex;flex-direction:column;justify-content:center;align-items:flex-start;padding:64px clamp(24px,5vw,72px);background:radial-gradient(120% 100% at 100% 0%,#1d6a3c,var(--pine) 65%)}
 .band-copy h2{margin-bottom:14px}
 .band-copy p:not(.kicker){color:#cfe3d5;font-size:1.1rem;max-width:36ch}
